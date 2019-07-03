@@ -63,6 +63,6 @@ void main() {
   // }
 
 
-  var myNum = 0/0;
-  print(myNum.isNaN);//true
+  // var myNum = 0/0;
+  // print(myNum.isNaN);//true
 }
