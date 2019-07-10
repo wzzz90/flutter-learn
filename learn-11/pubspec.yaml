@@ -1,0 +1,4 @@
+name: timer
+description: a dart learn
+dependencies:
+  http: ^0.12.0+2
