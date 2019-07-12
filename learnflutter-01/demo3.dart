@@ -1,7 +1,7 @@
 
 
 /*  
- 1、 Materia|App
+ 1、 MaterialApp
   MaterialApp是一个方便的 Widget,它封装了应用程序实现 Material Design所需要的
   一些 Widget。一般作为顶层 widget使用
 
