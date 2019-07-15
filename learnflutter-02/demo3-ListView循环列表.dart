@@ -82,6 +82,5 @@ class HomeContent extends StatelessWidget {
       itemCount: listData.length,
       itemBuilder: this._getListData
     );
-    
   }
 } */
